@@ -51,8 +51,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/leohum69/code-cipher-sight.git
-   cd code-cipher-sight
+   git clone https://github.com/leohum69/Hash-Identifier.git
+   cd Hash-Identifier
    ```
 
 2. **Install dependencies**
@@ -173,43 +173,9 @@ bun run build:dev
 - **GitHub Pages** - Free hosting for open source
 - **Docker** - Containerized deployment
 
-## 🤝 Contributing
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **shadcn/ui** - For the beautiful component library
 - **Radix UI** - For accessible headless components
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Lucide** - For the beautiful icons
-
-## 📞 Support
-
-If you have any questions or need help:
-
-- **Issues**: [GitHub Issues](https://github.com/leohum69/code-cipher-sight/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/leohum69/code-cipher-sight/discussions)
-
----
-
-<div align="center">
-  <strong>Built with ❤️ using modern web technologies</strong>
-</div>
